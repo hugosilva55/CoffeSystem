@@ -1,2 +1,2 @@
-Repositorio AV1:
-Repositorio Trabalhos:
+Repositorio AV1: https://github.com/hugosilva55/CoffeSystem.git
+Repositorio Trabalhos: https://github.com/hugosilva55/topicosespeciais.git
